@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "this is my package",
+  "main": "home.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golu7059/repositories.git"
+  },
+  "keywords": [
+    "Golu",
+    "Kumar"
+  ],
+  "author": "Golu kumar singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golu7059/repositories/issues"
+  },
+  "homepage": "https://github.com/golu7059/repositories#readme"
+}
